@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New section 1" section_id="3b6e8acf83731210a8e2c396feaad32f" sys_domain="global" table="x_1620163_needit_needit" version="3" view="Francis_Leonard_Mahinay_Application_Files_Exercise">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-23 04:38:23</sys_created_on>
+            <sys_id>047e8acf83731210a8e2c396feaad3dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1620163_needit_needit" sys_domain="global" view="801442c383731210a8e2c396feaad37f">3b6e8acf83731210a8e2c396feaad32f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-23 04:38:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-23 04:38:23</sys_created_on>
+            <sys_id>887e8acf83731210a8e2c396feaad3dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1620163_needit_needit" sys_domain="global" view="801442c383731210a8e2c396feaad37f">3b6e8acf83731210a8e2c396feaad32f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-23 04:38:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-23 04:38:23</sys_created_on>
+            <sys_id>007e8acf83731210a8e2c396feaad3de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1620163_needit_needit" sys_domain="global" view="801442c383731210a8e2c396feaad37f">3b6e8acf83731210a8e2c396feaad32f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-23 04:38:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New section 1</caption>
+            <header>false</header>
+            <name>x_1620163_needit_needit</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-23 04:38:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3b6e8acf83731210a8e2c396feaad32f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1620163_needit_needit</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_1620163_needit">fbecb18383331210a8e2c396feaad3b9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">fbecb18383331210a8e2c396feaad3b9</sys_scope>
+            <sys_update_name>sys_ui_section_3b6e8acf83731210a8e2c396feaad32f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-23 04:38:22</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Francis Leonard Mahinay Application Files Exercise" name="Francis_Leonard_Mahinay_Application_Files_Exercise">801442c383731210a8e2c396feaad37f</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">fbecb18383331210a8e2c396feaad3b9</application>
+        <file_path/>
+        <instance_id>8c0f274dfb3fc6900c92f633beefdcd4</instance_id>
+        <instance_name>dev285409</instance_name>
+        <name>sys_ui_section_3b6e8acf83731210a8e2c396feaad32f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New section 1" section_id="3b6e8acf83731210a8e2c396feaad32f" sys_domain="global" table="x_1620163_needit_needit" version="3" view="Francis_Leonard_Mahinay_Application_Files_Exercise"><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-23 04:38:23</sys_created_on><sys_id>047e8acf83731210a8e2c396feaad3dd</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_1620163_needit_needit" sys_domain="global" view="801442c383731210a8e2c396feaad37f">3b6e8acf83731210a8e2c396feaad32f</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-23 04:38:23</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>description</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-23 04:38:23</sys_created_on><sys_id>887e8acf83731210a8e2c396feaad3dd</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_1620163_needit_needit" sys_domain="global" view="801442c383731210a8e2c396feaad37f">3b6e8acf83731210a8e2c396feaad32f</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-23 04:38:23</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>work_notes</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-23 04:38:23</sys_created_on><sys_id>007e8acf83731210a8e2c396feaad3de</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_1620163_needit_needit" sys_domain="global" view="801442c383731210a8e2c396feaad37f">3b6e8acf83731210a8e2c396feaad32f</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-23 04:38:23</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New section 1</caption><header>false</header><name>x_1620163_needit_needit</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-23 04:38:22</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3b6e8acf83731210a8e2c396feaad32f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1620163_needit_needit</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_1620163_needit">fbecb18383331210a8e2c396feaad3b9</sys_package><sys_policy/><sys_scope display_value="NeedIt">fbecb18383331210a8e2c396feaad3b9</sys_scope><sys_update_name>sys_ui_section_3b6e8acf83731210a8e2c396feaad32f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-23 04:38:22</sys_updated_on><sys_user/><title>false</title><view display_value="Francis Leonard Mahinay Application Files Exercise" name="Francis_Leonard_Mahinay_Application_Files_Exercise">801442c383731210a8e2c396feaad37f</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-296302594</payload_hash>
+        <record_name>NeedIt</record_name>
+        <reverted_from/>
+        <source>bbec718b83331210a8e2c396feaad303</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-23 04:38:23</sys_created_on>
+        <sys_id>007e8acf83731210a8e2c396feaad3e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1953119685e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-23 04:38:23</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>847e8acfa7731210068e7441b11fa2df</update_guid>
+        <update_guid_history>847e8acfa7731210068e7441b11fa2df:-296302594</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-23 09:37:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>4ef6bb1dbcbb4b449a58996371d748e4</sys_id>
+        <sys_metadata>3b6e8acf83731210a8e2c396feaad32f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New section 1</sys_name>
+        <sys_package display_value="NeedIt" source="x_1620163_needit">fbecb18383331210a8e2c396feaad3b9</sys_package>
+        <sys_parent display_value="NeedIt">91fdb18b83331210a8e2c396feaad3a7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">fbecb18383331210a8e2c396feaad3b9</sys_scope>
+        <sys_scope_delete display_value="">499642285c964f0a902f76d16321e9e4</sys_scope_delete>
+        <sys_update_name>sys_ui_section_3b6e8acf83731210a8e2c396feaad32f</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_3b6e8acf83731210a8e2c396feaad32f">007e8acf83731210a8e2c396feaad3e0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-23 09:37:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

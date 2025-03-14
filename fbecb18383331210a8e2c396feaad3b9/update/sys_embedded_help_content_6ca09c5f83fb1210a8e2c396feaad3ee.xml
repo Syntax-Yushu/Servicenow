@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ai_generated>false</ai_generated>
+        <category/>
+        <content><![CDATA[<p><strong>Administering the NeedIt Form</strong></p>
+<p>Only members of the NeedIt application team can make changes to the NeedIt form. Do not make changes to the <em>NeedIt</em> form without an approved change request.</p>
+<p>&#x1f4a1; <strong>Note:</strong> The NeedIt Application is brought to you by bsweets and niedziel.</p>]]></content>
+        <last_sync/>
+        <modifier>normal</modifier>
+        <name>Francis Leonard Mahinay NeedIt List</name>
+        <page>x_1620163_needit_needit_list</page>
+        <product>1</product>
+        <qualifier/>
+        <role/>
+        <role_order>1000</role_order>
+        <snc_created>false</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-23 14:16:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6ca09c5f83fb1210a8e2c396feaad3ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Francis Leonard Mahinay NeedIt List</sys_name>
+        <sys_package display_value="NeedIt" source="x_1620163_needit">fbecb18383331210a8e2c396feaad3b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">fbecb18383331210a8e2c396feaad3b9</sys_scope>
+        <sys_update_name>sys_embedded_help_content_6ca09c5f83fb1210a8e2c396feaad3ee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-23 14:16:49</sys_updated_on>
+        <version>all</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=6ca09c5f83fb1210a8e2c396feaad3ee"/>
+</record_update>

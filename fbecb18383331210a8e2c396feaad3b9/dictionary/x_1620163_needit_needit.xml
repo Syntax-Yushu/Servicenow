@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="91fdb18b83331210a8e2c396feaad3a7" extends="task" label="NeedIt" max_length="40" name="x_1620163_needit_needit" type="collection">
+        <element attributes="human_resources&#13;&#10;facilities&#13;&#10;legal" choice="1" label="Request type" max_length="40" name="request_type" type="choice" use_dependent_field="true">
+            <choice>
+                <element inactive_on_update="false" label="-- New choice --" value="-- New choice --"/>
+            </choice>
+        </element>
+        <element choice="1" label="What needed" max_length="40" name="what_needed" type="choice">
+            <choice/>
+        </element>
+    </element>
+</database>

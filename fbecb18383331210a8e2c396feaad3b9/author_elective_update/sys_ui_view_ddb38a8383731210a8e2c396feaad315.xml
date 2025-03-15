@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="DELETE">
+        <group/>
+        <hidden>false</hidden>
+        <name>Francis_Leonard_Mahinay</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-23 03:51:31</sys_created_on>
+        <sys_id>ddb38a8383731210a8e2c396feaad315</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Francis Leonard Mahinay</sys_name>
+        <sys_package display_value="NeedIt" source="x_1620163_needit">fbecb18383331210a8e2c396feaad3b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">fbecb18383331210a8e2c396feaad3b9</sys_scope>
+        <sys_update_name>sys_ui_view_ddb38a8383731210a8e2c396feaad315</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-23 03:51:31</sys_updated_on>
+        <title>Francis Leonard Mahinay</title>
+        <user/>
+    </sys_ui_view>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">fbecb18383331210a8e2c396feaad3b9</application>
+        <file_path/>
+        <instance_id>8c0f274dfb3fc6900c92f633beefdcd4</instance_id>
+        <instance_name>dev285409</instance_name>
+        <name>sys_ui_view_ddb38a8383731210a8e2c396feaad315</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view"><sys_ui_view action="INSERT_OR_UPDATE"><group/><hidden>false</hidden><name>Francis_Leonard_Mahinay</name><roles/><sys_class_name>sys_ui_view</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-23 03:51:31</sys_created_on><sys_id>ddb38a8383731210a8e2c396feaad315</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Francis Leonard Mahinay</sys_name><sys_package display_value="NeedIt" source="x_1620163_needit">fbecb18383331210a8e2c396feaad3b9</sys_package><sys_policy/><sys_scope display_value="NeedIt">fbecb18383331210a8e2c396feaad3b9</sys_scope><sys_update_name>sys_ui_view_ddb38a8383731210a8e2c396feaad315</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-23 03:51:31</sys_updated_on><title>Francis Leonard Mahinay</title><user/></sys_ui_view></record_update>]]></payload>
+        <payload_hash>-647700685</payload_hash>
+        <record_name>Francis Leonard Mahinay</record_name>
+        <reverted_from/>
+        <source>bbec718b83331210a8e2c396feaad303</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-23 03:51:31</sys_created_on>
+        <sys_id>61b38a8383731210a8e2c396feaad31a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19530ee7ffc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-23 03:51:31</sys_updated_on>
+        <type>UI View</type>
+        <update_guid>65b38a8317731210c93ecdb511dd9519</update_guid>
+        <update_guid_history>65b38a8317731210c93ecdb511dd9519:-647700685</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-23 05:01:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_view">sys_ui_view</sys_db_object>
+        <sys_id>36ddedb65b184f68a883e8f8ccb80c29</sys_id>
+        <sys_metadata>ddb38a8383731210a8e2c396feaad315</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Francis Leonard Mahinay</sys_name>
+        <sys_package display_value="NeedIt" source="x_1620163_needit">fbecb18383331210a8e2c396feaad3b9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">fbecb18383331210a8e2c396feaad3b9</sys_scope>
+        <sys_scope_delete display_value="">499642285c964f0a902f76d16321e9e4</sys_scope_delete>
+        <sys_update_name>sys_ui_view_ddb38a8383731210a8e2c396feaad315</sys_update_name>
+        <sys_update_version display_value="sys_ui_view_ddb38a8383731210a8e2c396feaad315">61b38a8383731210a8e2c396feaad31a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-23 05:01:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

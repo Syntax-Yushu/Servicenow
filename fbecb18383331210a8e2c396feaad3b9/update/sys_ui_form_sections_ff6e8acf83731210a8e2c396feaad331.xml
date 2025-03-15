@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="ff6e8acf83731210a8e2c396feaad331" sys_domain="global" table="x_1620163_needit_needit" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-23 04:38:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b76e8acf83731210a8e2c396feaad3cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1620163_needit_needit" name="x_1620163_needit_needit" sys_domain="global" view="801442c383731210a8e2c396feaad37f">ff6e8acf83731210a8e2c396feaad331</sys_ui_form>
+            <sys_ui_section caption="x_1620163_needit_needit" display_value="x_1620163_needit_needit" name="x_1620163_needit_needit" sys_domain="global" view="801442c383731210a8e2c396feaad37f">8c1442c383731210a8e2c396feaad382</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-23 04:38:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-23 04:44:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b6cfc24383b31210a8e2c396feaad3ec</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1620163_needit_needit" name="x_1620163_needit_needit" sys_domain="global" view="801442c383731210a8e2c396feaad37f">ff6e8acf83731210a8e2c396feaad331</sys_ui_form>
+            <sys_ui_section caption="Logs" display_value="Logs" name="x_1620163_needit_needit" sys_domain="global" view="801442c383731210a8e2c396feaad37f">f2cfc24383b31210a8e2c396feaad3e9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-23 09:37:36</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-23 04:44:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>72cfc24383b31210a8e2c396feaad3f0</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1620163_needit_needit" name="x_1620163_needit_needit" sys_domain="global" view="801442c383731210a8e2c396feaad37f">ff6e8acf83731210a8e2c396feaad331</sys_ui_form>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_1620163_needit_needit" sys_domain="global" view="801442c383731210a8e2c396feaad37f">32cfc24383b31210a8e2c396feaad3ea</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-23 09:37:36</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1620163_needit_needit</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-23 04:38:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ff6e8acf83731210a8e2c396feaad331</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1620163_needit_needit</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_1620163_needit">fbecb18383331210a8e2c396feaad3b9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">fbecb18383331210a8e2c396feaad3b9</sys_scope>
+            <sys_update_name>sys_ui_form_sections_ff6e8acf83731210a8e2c396feaad331</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-23 04:38:22</sys_updated_on>
+            <sys_user/>
+            <view display_value="Francis Leonard Mahinay Application Files Exercise" name="Francis_Leonard_Mahinay_Application_Files_Exercise">801442c383731210a8e2c396feaad37f</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
